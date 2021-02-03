@@ -1,0 +1,60 @@
+{
+  "stats": {
+    "suites": 3,
+    "tests": 3,
+    "passes": 3,
+    "pending": 0,
+    "failures": 0,
+    "start": "2021-02-03T18:34:53.086Z",
+    "end": "2021-02-03T18:34:53.093Z",
+    "duration": 7
+  },
+  "tests": [
+    {
+      "title": "must have version v5.6.0",
+      "fullTitle": "node must have version v5.6.0",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "must be darwin,linux",
+      "fullTitle": "platform must be darwin,linux",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "must be qa",
+      "fullTitle": "env var NODE_ENV must be qa",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "must have version v5.6.0",
+      "fullTitle": "node must have version v5.6.0",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "must be darwin,linux",
+      "fullTitle": "platform must be darwin,linux",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "must be qa",
+      "fullTitle": "env var NODE_ENV must be qa",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ]
+}
